@@ -3,8 +3,8 @@
 ## The second function serves to calculate the inverse of a matrix and store it
 ## in the cache
 ## These functions are useful as matrix inversion is a taxing computation. By 
-## using these functions, repetitive computations could be avoided thus improving 
-## efficiency.
+## using these functions, repetitive computations could be avoided thus 
+## improving overall efficiency.
 
 
 
